@@ -1,7 +1,6 @@
 import requests
 import logging
 from PIL import Image
-from pprint import pprint
 from io import BytesIO 
 import numpy as np
 
